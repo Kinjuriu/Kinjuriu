@@ -1,4 +1,4 @@
-- 👋 Hi there,my name is Kinjuriu or Stephane
+- 👋 Hi there, my name is Kinjuriu or Stephane
 - 👀 I have an interest in Machine Learning and Artificial Intelligence.
 - 📖 Currently, I am learning how to code in C and Javascript 💻
 - 💞️ I’m looking to collaborate on other content in github.
