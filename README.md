@@ -21,6 +21,7 @@ My name is Stephane, a **Data Analyst**  working at [Code For Africa](https://gi
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-Shiny-blue?style=for-the-badge&logo=shiny)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white
 
 ## Stats
 
