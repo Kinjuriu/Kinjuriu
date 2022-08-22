@@ -18,7 +18,7 @@ My name is Stephane, a **Data Analyst**  working at [Code For Africa](https://gi
 ![Scrapy](https://img.shields.io/badge/-Scrapy-brightgreen?style=for-the-badge&logo=scrapy)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensor-flow&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-white?style=for-the-badge&logo=googlesheets)
 ![Shiny](https://img.shields.io/badge/-Shiny-blue?style=for-the-badge&logo=shiny)
 
