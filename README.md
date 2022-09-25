@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stephane, a **Data Analyst**  working at [Code For Africa](https://github.com/CodeForAfrica). I am an erudite data scientist with around 3 years of experience in data analytics. I’m professionally upgrading my skills in data science and machine learning through several courses and a professional program: MIT’s Data Science and Machine learning program. I’m also learning Tensorflow and AWS. To see my profile in detail, I recommend to look at my LinkedIn profile.
+My name is Stephane, a **Data Analyst**  working at [Code For Africa](https://github.com/CodeForAfrica). I have 3 years of experience in data analytics. I’m professionally upgrading my skills in data science and machine learning through several courses and a professional program: MIT’s Data Science and Machine learning program. I’m also learning Tensorflow and AWS. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephane-njoki/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stephanenjokingugi)
