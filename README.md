@@ -1,28 +1,41 @@
-### 👋 Hi, I’m Stephane
+# Hi, I'm Stephane 👋
 
-Data analyst / data engineer working at [World Benchmarking Alliance]((https://www.worldbenchmarkingalliance.org/)) rebuilding this GitHub around ML-ready data pipelines.
+**Data Scientist | ML & AI Workflows | Evaluations, Benchmarks & Analytics**
 
-I am currently learning and building end-to-end data pipelines—from raw data ingestion to feature-ready datasets—using Python and SQL, with a focus on data quality, reproducibility, and scalability.
+I'm a data scientist with 5+ years across technology companies and tech teams in
+non-profits, working mainly in Python, R, and SQL. My work spans large-scale
+evaluations and benchmarks, big-data analytics, data mining and building the databases and
+pipelines that feed them.
 
-My current areas of focus include:
+I've designed evaluation and benchmarking systems scoring 2,000+ companies against
+weighted indicators, reconciling 18,000+ structured data points per cycle. I've built
+NLP and AI workflows using OpenAI embeddings and cosine similarity to process
+disclosures at that scale, migrated five years of fragmented records into centralised
+databases, and trained deep-learning models on satellite imagery presented at the
+Kaggle workshop at ICLR 2023.
 
-- ETL / ELT pipelines and data migration
+🔭 **Currently working on:** LLM-based data workflows, vector embeddings, and information
+retrieval (RAG), building toward AI evaluation and applied machine learning.
 
-- Unstructured data processing using NLP and Large Language Models (LLMs)
+### Focus areas
+- Evaluations, benchmarks, and weighted scoring methodologies
+- Big-data analytics, SQL, and relational databases
+- ETL / ELT pipelines, data migration, and data-quality checks
+- NLP, LLMs, embeddings, and retrieval (RAG)
+- Deep learning and computer vision on satellite imagery
+- Reproducible, documented workflows and version control
 
-- Vector embeddings, semantic similarity, and information retrieval
+### Selected work
+- **[nasa_harvest_field_boundary_detection_challenge](https://github.com/Kinjuriu/nasa_harvest_field_boundary_detection_challenge):** deep-learning segmentation on Sentinel-2 imagery, presented at the Kaggle workshop at ICLR 2023
+- **[my_recommendation_system](https://github.com/Kinjuriu/my_recommendation_system):** knowledge-based, collaborative-filtering, and matrix-factorisation recommenders
+- **[scrapping_the_web](https://github.com/Kinjuriu/scrapping_the_web):** scrapers, crawlers, and link extractors in Python
 
-- API-driven data integration and web scraping
+🛠️ **Tools:** Python (pandas, NumPy, scikit-learn), R (tidyverse), SQL, PostgreSQL,
+BigQuery, AWS, NLP and embeddings, Power BI, Git.
 
-- Data versioning, lineage, and quality checks
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/stephane-njoki/) · [Medium](https://medium.com/@stephanenjokingugi)
 
-- Pipeline orchestration and MLOps fundamentals
-
-This work is informed by my background in impact analytics, sustainability benchmarking, and open data, where reliable data systems are critical for accountability and decision-making.
-
-🛠️ Tools I’m using: Python, SQL, relational databases (PostgreSQL), data pipelines, NLP, embeddings, APIs.
-
-📌 This is a work in progress—I’m building in public, documenting what I learn, and prioritising solid data foundations over polished demos.
+📌 I build in public and prioritise solid data foundations.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephane-njoki/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stephanenjokingugi)
