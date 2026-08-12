@@ -1,60 +1,53 @@
-# Hi, I'm Stephane 👋
+# Hello there, my name is Stephane 👋
 
-**Data Scientist | ML & AI Workflows | Evaluations, Benchmarks & Analytics**
+**Data Scientist | ML & AI Workflows | Big Data Analytics**
 
-I'm a data scientist with 5+ years across technology companies and tech teams in
-non-profits, working mainly in Python, R, and SQL. My work spans large-scale
-evaluations and benchmarks, big-data analytics, data mining and building the databases and
-pipelines that feed them.
+I am a data scientist with 5+ years of experience working across civic technology companies, start-ups and data teams in non-profits. I work mainly in Python, R, and SQL. Most of my work is large-scale dataset evaluations and benchmarks, impact measurement, big-data analytics, and building the databases and pipelines. I also do a lot of data mining and data extraction, from web scraping to pulling text and tables out of documents and APIs.
 
-I've designed evaluation and benchmarking systems scoring 2,000+ companies against
-weighted indicators, reconciling 18,000+ structured data points per cycle. I've built
-NLP and AI workflows using OpenAI embeddings and cosine similarity to process
-disclosures at that scale, migrated five years of fragmented records into centralised
-databases, and trained deep-learning models on satellite imagery presented at the
-Kaggle workshop at ICLR 2023.
+Some of the interesting projects I have done:
 
-🔭 **Currently working on:** LLM-based data workflows, vector embeddings, and information
-retrieval (RAG), building toward AI evaluation and applied machine learning.
+* Built evaluation and benchmarking systems that scored 2,000+ companies against weighted indicators, and reconciled 18,000+ data points every cycle.
+* Built an NLP pipeline with Amazon Textract and OpenAI embeddings to pull company data out of disclosures at that scale.
+* Migrated five years of scattered records into one central database.
+* Trained deep-learning models on satellite imagery, presented at the Kaggle workshop at ICLR 2023.
+* Measure social and development impact, turning survey data from thousands of people into benchmarks that investors use to allocate funds.
 
-### Focus areas
-- Evaluations, benchmarks, and weighted scoring methodologies
-- Big-data analytics, SQL, and relational databases
-- ETL / ELT pipelines, data migration, and data-quality checks
-- NLP, LLMs, embeddings, and retrieval (RAG)
-- Deep learning and computer vision on satellite imagery
-- Reproducible, documented workflows and version control
+🔭 **Right now I am working on:** LLM-based data workflows, vector embeddings, and retrieval (RAG), building toward AI evaluation and applied machine learning.
 
-### Selected work
-- **[nasa_harvest_field_boundary_detection_challenge](https://github.com/Kinjuriu/nasa_harvest_field_boundary_detection_challenge):** deep-learning segmentation on Sentinel-2 imagery, presented at the Kaggle workshop at ICLR 2023
-- **[my_recommendation_system](https://github.com/Kinjuriu/my_recommendation_system):** knowledge-based, collaborative-filtering, and matrix-factorisation recommenders
-- **[scrapping_the_web](https://github.com/Kinjuriu/scrapping_the_web):** scrapers, crawlers, and link extractors in Python
+📚 **Learning:** AI safety and governance through the BlueDot Impact community and a monthly AI Governance Club, working through the papers and policy ideas shaping the field.
 
-🛠️ **Tools:** Python (pandas, NumPy, scikit-learn), R (tidyverse), SQL, PostgreSQL,
-BigQuery, AWS, NLP and embeddings, Power BI, Git.
+🏆 **Building in public:** I take part in hackathons on Kaggle and in the Claude Community Kenya developer community.
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/stephane-njoki/) · [Medium](https://medium.com/@stephanenjokingugi)
+## What I focus on
 
-📌 I build in public and prioritise solid data foundations.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephane-njoki/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stephanenjokingugi)
+* Evaluations, benchmarks, and weighted scoring
+* Impact measurement
+* Big-data analytics, SQL, and relational databases
+* ETL / ELT pipelines, data migration, and data-quality checks
+* Data mining, data extraction, and web scraping
+* NLP, LLMs, embeddings, and retrieval (RAG)
+* Deep learning and computer vision 
+* Data governance and version control
 
 ## Skills
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![R-studio](https://img.shields.io/badge/R-rstudio-informational?style=for-the-badge&logo=r)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel)
-![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-brightgreen?style=for-the-badge&logo=scrapy)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Shiny](https://img.shields.io/badge/-Shiny-blue?style=for-the-badge&logo=shiny)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kinjuriu.Kinjuriu)
+## 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/stephane-njoki/) · [Medium](https://medium.com/@stephanenjokingugi)
