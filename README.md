@@ -1,11 +1,11 @@
-<h1 align="center">Hello there, I am Stephane Njoki Ngugi 👋</h1>
-<h3 align="center">Data Scientist & Researcher | Big Data Analytics, ML & AI Agentic Workflows</h3>
+<h1 align="left">Hello there, I am Stephane Njoki Ngugi 👋</h1>
+<h3 align="left">Data Scientist & Researcher | Big Data Analytics, ML & AI Agentic Workflows</h3>
 
-<p align="center">
+<p align="left">
   Turning large, messy, multi-source datasets into insights and decisions for stakeholders.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/stephane-njoki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Kinjuriu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://kaggle.com/stephanenjoki"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -16,7 +16,7 @@
 
 ### 👋 About
 
-Hello, I'm Stephane. I'm a data scientist and researcher with 5+ years across civic-tech, start-ups, and non-profit data teams, working mostly in Python, R, and SQL. I also work as a data analyst. My work lives where large-scale dataset specifically benchmarking, big-data analytics, and dahsboards; I also spend a lot of my time on data mining and extraction, from web scraping to pulling text and tables out of documents and APIs.
+Hello there, my name is Stephane Ngugi and I am currently working as a data analyst and researcher with 5+ years across civic-tech, start-ups, and non-profit data teams, working mostly in Python, R, and SQL. I also work as a data analyst. My work lives where large-scale dataset specifically benchmarking, big-data analytics, and dahsboards; I also spend a lot of my time on data mining and extraction, from web scraping to pulling text and tables out of documents and APIs.
 
 - 🔭 **Currently building:** agentic data workflows and large-scale extraction pipelines, with LLM embeddings, retrieval (RAG), and evaluation, working toward AI analytics engineering.
 - 🤖 **Side projects:** *washamba bots*, my team's agentic system, and *gusa*.
@@ -111,20 +111,5 @@ Hello, I'm Stephane. I'm a data scientist and researcher with 5+ years across ci
 - **Satellite CO₂ emissions regression:** predicted GRACED-derived CO₂ across 105 Rwandan locations from Sentinel-5P co-emitted pollutant observations, a replicable approach for climate-finance MRV where ground monitoring is absent.
 - **NLP disclosure extraction:** Python pipeline using Amazon Textract and OpenAI embeddings with cosine similarity to pull geographic-footprint data from 2,000+ corporate disclosures, replacing a manual research workflow.
 - **Fraud-detection benchmarking:** reconciled PostgreSQL and MS SQL Server sources in Python, computed Value Detection Rate and False Positive Rate across 15+ financial institutions, and served the results through a Power BI and Streamlit self-service layer.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinjuriu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinjuriu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinjuriu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
 
 <p align="center"><i>Studying AI safety & governance · forecasting · open data for public good</i></p>
